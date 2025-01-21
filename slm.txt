@@ -1,0 +1,195 @@
+Quran Lexicon:
+SLM (س ل م)
+
+Consonantal Root: س ل م
+
+Occurrences
+
+Verb (form II) - to submit, to greet, to pay
+((2:233:53) sallamtum)
+((4:65:18) wayusallimū)
+((8:43:16) sallama)
+((24:27:11) watusallimū)
+((24:61:61) fasallimū)
+((33:56:12) wasallimū)
+
+Verb (form IV) - to submit
+((2:112:3) aslama)
+((2:131:5) aslim)
+((2:131:7) aslamtu)
+((3:20:4) aslamtu)
+((3:20:14) a-aslamtum)
+((3:20:16) aslamū)
+((3:83:6) aslama)
+((4:125:5) aslama)
+((5:44:11) aslamū)
+((6:14:20) aslama)
+((6:71:37) linus'lima)
+((16:81:25) tus'limūna)
+((22:34:18) aslimū)
+((27:44:23) wa-aslamtu)
+((31:22:2) yus'lim)
+((37:103:2) aslamā)
+((39:54:4) wa-aslimū)
+((40:66:18) us'lima)
+((48:16:13) yus'limūna)
+((49:14:9) aslamnā)
+((49:17:4) aslamū)
+((72:14:7) aslama)
+
+Nominal
+(1) Noun
+((4:94:15) l-salāma)
+((5:16:8) l-salāmi)
+((6:54:7) salāmun)
+((6:127:3) l-salāmi)
+((7:46:13) salāmun)
+((10:10:7) salāmun)
+((10:25:5) l-salāmi)
+((11:48:4) bisalāmin)
+((11:69:7) salāman)
+((11:69:9) salāmun)
+((13:24:1) salāmun)
+((14:23:17) salāmun)
+((15:46:2) bisalāmin)
+((15:52:5) salāman)
+((16:32:6) salāmun)
+((19:15:1) wasalāmun)
+((19:33:1) wal-salāmu)
+((19:47:2) salāmun)
+((19:62:6) salāman)
+((20:47:17) wal-salāmu)
+((21:69:5) wasalāman)
+((25:63:12) salāman)
+((25:75:9) wasalāman)
+((27:59:4) wasalāmun)
+((28:55:11) salāmun)
+((33:44:4) salāmun)
+((36:58:1) salāmun)
+((37:79:1) salāmun)
+((37:109:1) salāmun)
+((37:120:1) salāmun)
+((37:130:1) salāmun)
+((37:181:1) wasalāmun)
+((39:73:16) salāmun)
+((43:89:4) salāmun)
+((50:34:2) bisalāmin)
+((51:25:5) salāman)
+((51:25:7) salāmun)
+((56:26:3) salāman)
+((56:26:4) salāman)
+((56:91:1) fasalāmun)
+((97:5:1) salāmun)
+
+(2) Adjective
+((59:23:10) l-salāmu)
+
+Noun
+((8:61:3) lilssalmi)
+((47:35:5) l-salmi)
+
+Proper noun
+((2:208:6) l-sil'mi)
+
+Noun
+((4:90:30) l-salama)
+((4:91:20) l-salama)
+((16:28:7) l-salama)
+((16:87:5) l-salama)
+((39:29:9) salaman)
+
+Noun
+((6:35:14) sullaman)
+((52:38:3) sullamun)
+
+Noun
+((26:89:6) salīmin)
+((37:84:5) salīmin)
+
+Active participle
+((68:43:11) sālimūna)
+
+Verbal noun (form II)
+((4:65:19) taslīman)
+((33:22:18) wataslīman)
+((33:56:13) taslīman)
+
+Passive participle (form II)
+((2:71:13) musallamatun)
+((4:92:17) musallamatun)
+((4:92:42) musallamatun)
+
+Verbal noun (form IV)
+(1) Proper noun
+((3:19:5) l-is'lāmu)
+((3:85:4) l-is'lāmi)
+((5:3:49) l-is'lāma)
+((6:125:8) lil'is'lāmi)
+((39:22:5) lil'is'lāmi)
+((61:7:11) l-is'lāmi)
+
+Passive participle (form II)
+((9:74:11) is'lāmihim)
+((49:17:9) is'lāmakum)
+
+Active participle (form IV)
+(1) Noun
+((2:128:3) mus'limayni)
+((2:132:16) mus'limūna)
+((2:133:27) mus'limūna)
+((2:136:31) mus'limūna)
+((3:52:20) mus'limūna)
+((3:64:31) mus'limūna)
+((3:80:13) mus'limūna)
+((3:84:29) mus'limūna)
+((3:102:12) mus'limūna)
+((5:111:13) mus'limūna)
+((7:126:16) mus'limīna)
+((10:84:12) mus'limīna)
+((11:14:16) mus'limūna)
+((12:101:19) mus'liman)
+((15:2:7) mus'limīna)
+((21:108:11) mus'limūna)
+((27:31:5) mus'limīna)
+((27:38:10) mus'limīna)
+((27:42:14) mus'limīna)
+((27:81:14) mus'limūna)
+((28:53:15) mus'limīna)
+((29:46:25) mus'limūna)
+((30:53:14) mus'limūna)
+((43:69:5) mus'limīna)
+
+(2) Proper noun
+((6:163:8) l-mus'limīna)
+((10:72:16) l-mus'limīna)
+((10:90:27) l-mus'limīna)
+((16:89:24) lil'mus'limīna)
+((16:102:13) lil'mus'limīna)
+((22:78:20) l-mus'limīna)
+((27:91:17) l-mus'limīna)
+((33:35:2) l-mus'limīna)
+((39:12:5) l-mus'limīna)
+((41:33:13) l-mus'limīna)
+((46:15:45) l-mus'limīna)
+((51:36:7) l-mus'limīna)
+((68:35:2) l-mus'limīna)
+((72:14:3) l-mus'limūna)
+
+(3) Adjective
+((3:67:10) mus'liman)
+
+Active participle (form IV)
+(1) Noun
+((33:35:3) wal-mus'limāti)
+
+(2) Adjective
+((66:5:10) mus'limātin)
+
+Active participle (form IV)
+((2:128:8) mus'limatan)
+
+Active participle (form X)
+((37:26:4) mus'taslimūna)
+
+Etymology
+Since this is the root from which the word  اِسْلَامٌ  (Islam) is derived, its basic meanings must be comprehended properly, because these meanings will be used to explain various aspects of the word Islam. سَلِمَ  (sa-lima): he became clean (or free) from all sorts of faults, limitations, weaknesses. All his shortcomings were removed . سَلَمَ الدَّلْوَ  (salamad dalau): he prepared a strong bucket (e.g. for drawing water from a well). (**Lughat ul Quran**)

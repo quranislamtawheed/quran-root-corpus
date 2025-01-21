@@ -1,0 +1,92 @@
+Consonantal Root: س ك ن
+
+Occurrences
+((2:35:3) us'kun)
+((6:13:3) sakana)
+((7:19:2) us'kun)
+((7:161:4) us'kunū)
+((7:189:10) liyaskuna)
+((10:67:6) litaskunū)
+((14:45:1) wasakantum)
+((17:104:6) us'kunū)
+((27:86:6) liyaskunū)
+((28:58:10) tus'kan)
+((28:72:18) taskunūna)
+((28:73:7) litaskunū)
+((30:21:9) litaskunū)
+((40:61:6) litaskunū)
+((65:6:4) sakantum)
+
+
+((14:14:1) walanus'kinannakumu)
+((14:37:3) askantu)
+((23:18:6) fa-askannāhu)
+((42:33:3) yus'kini)
+((65:6:1) askinūhunna)
+
+
+((6:96:5) sakanan)
+((9:103:12) sakanun)
+((16:80:6) sakanan)
+
+
+((12:31:13) sikkīnan)
+
+
+((2:248:11) sakīnatun)
+((9:26:4) sakīnatahu)
+((9:40:26) sakīnatahu)
+((48:4:4) l-sakīnata)
+((48:18:15) l-sakīnata)
+((48:26:12) sakīnatahu)
+
+
+((9:24:14) wamasākinu)
+((9:72:12) wamasākina)
+((14:45:3) masākini)
+((20:128:11) masākinihim)
+((21:13:8) wamasākinikum)
+((27:18:12) masākinakum)
+((28:58:8) masākinuhum)
+((29:38:7) masākinihim)
+((32:26:12) masākinihim)
+((34:15:5) maskanihim)
+((46:25:10) masākinuhum)
+((61:12:10) wamasākina)
+
+
+((2:61:40) wal-maskanatu)
+((3:112:20) l-maskanatu)
+
+
+((2:83:15) wal-masākīni)
+((2:177:26) wal-masākīna)
+((2:184:19) mis'kīnin)
+((2:215:12) wal-masākīni)
+((4:8:7) wal-masākīnu)
+((4:36:12) wal-masākīni)
+((5:89:15) masākīna)
+((5:95:30) masākīna)
+((8:41:13) wal-masākīni)
+((9:60:4) wal-masākīni)
+((17:26:5) wal-mis'kīna)
+((18:79:4) limasākīna)
+((24:22:11) wal-masākīna)
+((30:38:5) wal-mis'kīna)
+((58:4:16) mis'kīnan)
+((59:7:14) wal-masākīni)
+((68:24:6) mis'kīnun)
+((74:44:4) l-mis'kīna)
+((76:8:5) mis'kīnan)
+((89:18:5) l-mis'kīni)
+((90:16:2) mis'kīnan)
+((107:3:5) l-mis'kīni)
+
+
+((69:34:5) l-mis'kīni)
+
+
+((25:45:11) sākinan)
+
+
+((24:29:8) maskūnatin)

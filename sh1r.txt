@@ -1,0 +1,78 @@
+Consonantal Root: س ح ر
+
+Occurrences
+((7:116:5) saḥarū)
+((7:132:7) litasḥaranā)
+((23:89:5) tus'ḥarūna)
+
+
+((26:37:3) saḥḥārin)
+
+
+((3:17:6) bil-asḥāri)
+((51:18:1) wabil-asḥāri)
+((54:34:9) bisaḥarin)
+
+
+((2:102:16) l-siḥ'ra)
+((5:110:62) siḥ'run)
+((6:7:15) siḥ'run)
+((7:116:10) bisiḥ'rin)
+((10:76:9) lasiḥ'run)
+((10:77:7) asiḥ'run)
+((10:81:8) l-siḥ'ru)
+((11:7:30) siḥ'run)
+((20:57:6) bisiḥ'rika)
+((20:58:2) bisiḥ'rin)
+((20:63:10) bisiḥ'rihimā)
+((20:66:10) siḥ'rihim)
+((20:71:12) l-siḥ'ra)
+((20:73:11) l-siḥ'ri)
+((21:3:13) l-siḥ'ra)
+((26:35:6) bisiḥ'rihi)
+((26:49:12) l-siḥ'ra)
+((27:13:7) siḥ'run)
+((28:36:10) siḥ'run)
+((28:48:21) siḥ'rāni)
+((34:43:33) siḥ'run)
+((37:15:5) siḥ'run)
+((43:30:6) siḥ'run)
+((46:7:13) siḥ'run)
+((52:15:1) afasiḥ'run)
+((54:2:6) siḥ'run)
+((61:6:30) siḥ'run)
+((74:24:5) siḥ'run)
+
+
+((7:109:8) lasāḥirun)
+((7:112:3) sāḥirin)
+((7:113:2) l-saḥaratu)
+((7:120:2) l-saḥaratu)
+((10:2:25) lasāḥirun)
+((10:77:11) l-sāḥirūna)
+((10:79:5) sāḥirin)
+((10:80:3) l-saḥaratu)
+((20:63:4) lasāḥirāni)
+((20:69:11) sāḥirin)
+((20:69:14) l-sāḥiru)
+((20:70:2) l-saḥaratu)
+((26:34:6) lasāḥirun)
+((26:38:2) l-saḥaratu)
+((26:40:3) l-saḥarata)
+((26:41:3) l-saḥaratu)
+((26:46:2) l-saḥaratu)
+((38:4:9) sāḥirun)
+((40:24:6) sāḥirun)
+((43:49:3) l-sāḥiru)
+((51:39:4) sāḥirun)
+((51:52:11) sāḥirun)
+
+
+((15:15:8) masḥūrūna)
+((17:47:19) masḥūran)
+((17:101:18) masḥūran)
+((25:8:17) masḥūran)
+
+
+((26:153:5) l-musaḥarīna)
+((26:185:5) l-musaḥarīna)

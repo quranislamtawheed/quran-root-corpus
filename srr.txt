@@ -1,0 +1,63 @@
+Consonantal Root: س ر ر
+
+Occurrences
+((2:69:17) tasurru)
+
+
+((2:77:7) yusirrūna)
+((5:52:25) asarrū)
+((10:54:11) wa-asarrū)
+((11:5:13) yusirrūna)
+((12:19:11) wa-asarrūhu)
+((12:77:10) fa-asarrahā)
+((13:10:4) asarra)
+((16:19:4) tusirrūna)
+((16:23:7) yusirrūna)
+((20:62:4) wa-asarrū)
+((21:3:3) wa-asarrū)
+((34:33:18) wa-asarrū)
+((36:76:7) yusirrūna)
+((60:1:33) tusirrūna)
+((64:4:8) tusirrūna)
+((66:3:2) asarra)
+((67:13:1) wa-asirrū)
+((71:9:5) wa-asrartu)
+
+
+((2:235:21) sirran)
+((2:274:6) sirran)
+((6:3:8) sirrakum)
+((9:78:6) sirrahum)
+((13:22:11) sirran)
+((14:31:10) sirran)
+((16:75:18) sirran)
+((20:7:6) l-sira)
+((25:6:5) l-sira)
+((35:29:11) sirran)
+((43:80:6) sirrahum)
+
+
+((86:9:3) l-sarāiru)
+
+
+((3:134:4) l-sarāi)
+((7:95:13) wal-sarāu)
+
+
+((15:47:9) sururin)
+((37:44:2) sururin)
+((43:34:3) wasururan)
+((52:20:3) sururin)
+((56:15:2) sururin)
+((88:13:2) sururun)
+
+
+((76:11:8) wasurūran)
+
+
+((84:9:4) masrūran)
+((84:13:5) masrūran)
+
+
+((47:26:15) is'rārahum)
+((71:9:7) is'rāran)
